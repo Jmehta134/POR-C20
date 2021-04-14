@@ -1,2 +1,2 @@
-# POR-C20
-gcso deformation dectection with random speed and weight
+# p5.play-boilerplate
+Boiler plate for p5.play
